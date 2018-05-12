@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42095'
     url: http://www.gutenberg.org/2009/agents/42095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43262#The-Broken-Font-Vol.-2--of-2-A-Story-of-the-Civil-War
 gutenberg_issued: '2013-07-20'
 gutenberg_type: Text
 identifiers:
