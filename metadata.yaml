@@ -1,0 +1,26 @@
+_repo: The-Broken-Font-Vol.-2--of-2-A-Story-of-the-Civil-War_43262
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43262-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sherer, Moyle
+    birthdate: 1789
+    deathdate: 1869
+    gutenberg_agent_id: '42095'
+    url: http://www.gutenberg.org/2009/agents/42095
+description: ''
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Fiction'
+- !lcc 'PR'
+title: 'The Broken Font: A Story of the Civil War, Vol. 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/43262
